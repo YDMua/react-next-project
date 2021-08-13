@@ -30,7 +30,7 @@
     "express": "^4.17.1",
     "husky": "^2.7.0",
     "lint-staged": "^8.2.1",
-    "next": "^9.0.3",
+    "next": "^11.1.0",
     "next-redux-saga": "^4.0.2",
     "next-redux-wrapper": "^3.0.0-alpha.3",
     "node": "^12.7.0",
